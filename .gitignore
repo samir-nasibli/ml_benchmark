@@ -1,0 +1,7 @@
+# benchmark run artefacts
+*.json
+*.csv
+**/__pycache__
+
+# IDE properties
+.vscode
